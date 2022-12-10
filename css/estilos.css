@@ -1,0 +1,55 @@
+p {
+    color: red
+} */
+
+
+#textorojo{
+    color: red  !important
+}
+
+.textoazul{
+    color: blue
+}
+
+h1 {
+    color: rgb(255, 0, 217)
+}
+
+
+.textonegrita{
+    font-weight: bold;
+}
+
+*{
+    margin: 0;
+    padding: 0;    
+}
+
+#novedades{
+    background-color: aqua;
+    background-image: url(https://img.icons8.com/emoji/512/house-emoji.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 500px;
+}
+
+ul {
+    margin: 20px;
+    list-style-type: none;
+}
+
+a:link, 
+a:visited,
+a:active {
+    text-decoration: none;
+}
+
+p {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
